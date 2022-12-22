@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ventosa
-- 👀 I’m interested in quantuum computing, theoretical ML and probabilistic optimizations.
+- 👀 I’m interested in quantuum computing, time series and probabilistic optimizations.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me hloshkin@mail.ru.
